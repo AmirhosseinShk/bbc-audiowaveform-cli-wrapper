@@ -11,6 +11,14 @@
     <description>Simple Java wrapper around bbc-audiowaveform command-line interface</description>
     <url>https://github.com/marc7806/bbc-audiowaveform-cli-wrapper</url>
 
+    <repositories>
+        <repository>
+            <id>jitpack.io</id>
+            <url>https://jitpack.io</url>
+        </repository>
+    </repositories>
+
+
     <licenses>
         <license>
             <name>GPL-v3.0</name>
