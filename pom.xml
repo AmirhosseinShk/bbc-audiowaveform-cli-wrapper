@@ -5,7 +5,7 @@
 
     <groupId>com.github.AmirhosseinShk</groupId>
     <artifactId>audiowaveform</artifactId>
-    <version>1.3-SNAPSHOT</version>
+    <version>1.4-SNAPSHOT</version>
 
     <name>bbc-audiowaveform java wrapper</name>
     <description>Simple Java wrapper around bbc-audiowaveform command-line interface</description>
